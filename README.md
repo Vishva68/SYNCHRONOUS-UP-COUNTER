@@ -39,9 +39,6 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 5.For different input combinations generate the timing diagram.
 
 **PROGRAM**
-Developed by:S.Dhamini
-RegisterNumber:24002208
-
 module ex11(out,clk,rst);
 
 input clk,rst;
